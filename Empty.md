@@ -39,7 +39,7 @@ There's too much confusion - I just can't get no relief.
 
 <!-- A block of code -->
 This will be sample code from engineer:
-```c
+```
 printf ("Hello World");
 printf ("Ain't it boring?");
 ```
@@ -52,5 +52,9 @@ printf ("Ain't it boring?");
 <!-- Example for Numbered List -->
 
 <!-- Example for Tables -->
+
+| ledwie | powiał | poranny | zefirek          |
+| ------ | ------ | ------- | ---------------- |
+| wylazł | z      | norki   | nieduży wampirek |
 
 <!-- Paragraph after table -->
