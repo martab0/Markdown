@@ -1,10 +1,11 @@
 <!-- Example of title -->
+<!-- omit from toc --> 
 
 Empty document for Markdown "syntax" examples
-<!-- omit from toc --> 
 =============================================
 
 <!-- Here comes the table of content -->
+
 - [Links and images](#links-and-images)
   - [Links](#links)
   - [Images](#images)
