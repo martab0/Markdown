@@ -1,60 +1,37 @@
-# Normal text
+<!-- Example of title -->
 
-<!-- Example for normal text -->
-There must be some kind of way out of here,  
-said a joker to the thief. 
+<!-- Here comes the table of content -->
 
-There's too much confusion - I just can't get no relief.
-<!-- Example for title -->
-
-<!-- Here comes the TOC -->
-
-<!-- Example of paragraph of text -->
+<!-- Example of paragraph of text with line break -->
 
 <!-- Example of another paragraph -->
 
+<!-- Example of bold -->
 
-<!-- Example for Bold -->
+<!-- Example of italic  -->
 
-<!-- Example for Italic  -->
+<!-- Example of headers -->
 
-# Links and images
+<!-- Example of external link -->
 
-## Links
-<!-- Example for Links -->
-[ICM](http://meteo.pl)
+<!-- Example of link to another file -->
 
-## Images
-<!-- Example for Images -->
-![Flaga](./images/inglisz.jpg)
+<!-- Example of an image -->
 
-<!-- Example for linking to another file-->
+<!-- Example of an image with hover text -->
 
+<!-- Example of equation or inline code -->
 
-<!-- Example for Headers -->
+<!-- Example of a block of code -->
 
-<!-- Just text with equation -->
+<!-- Example of code highlighting -->
 
-<!-- Example for inline code -->
+<!-- Example of quote -->
 
-<!-- A block of code -->
-This will be sample code from engineer:
-```
-printf ("Hello World");
-printf ("Ain't it boring?");
-```
+<!-- Example of bullet list -->
 
+<!-- Example of numbered list -->
 
-<!-- Example for Quote -->
-
-<!-- Example for Bullet List -->
-
-<!-- Example for Numbered List -->
-
-<!-- Example for Tables -->
-
-| ledwie | powiał | poranny | zefirek          |
-| ------ | ------ | ------- | ---------------- |
-| wylazł | z      | norki   | nieduży wampirek |
+<!-- Example of table -->
 
 <!-- Paragraph after table -->
