@@ -6,17 +6,23 @@ My exercise in Markdown<!-- omit in toc -->
 Table of Content
 
 - [Paragraphs](#paragraphs)
+  - [Various line breaks](#various-line-breaks)
+  - [Long paragraph](#long-paragraph)
 - [Links and images](#links-and-images)
   - [Links](#links)
   - [Images](#images)
 
 # Paragraphs
 
+## Various line breaks
+
 <!-- Example of paragraph of text with line break -->
 There must be some kind of way out of here,  
 said a joker to the thief. 
 
 There's so much confusion, I just can't get no relief.
+
+## Long paragraph
 
 <!-- Example of another paragraph -->
 Another paragraph here with really long text. Until I break line in some way, Markdown takes this as one paragraph no matter what.
@@ -60,7 +66,7 @@ This ~~not a text~~ that I want to show.
 
 <!-- Example of an image with hover text -->
 
-![SVG image from Internet](./images/image_with_text_eng.svg "Famous quote")
+![SVG image from Internet](./images/inglisz.jpg "This flag does not exist")
 
 <!-- Example of equation or inline code -->
 
