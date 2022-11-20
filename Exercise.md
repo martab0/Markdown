@@ -1,8 +1,16 @@
 <!-- Example of title -->
-My exercise in Markdown
+My exercise in Markdown<!-- omit in toc -->
 =======================
 
 <!-- Here comes the table of content -->
+Table of Content
+
+- [Paragraphs](#paragraphs)
+- [Links and images](#links-and-images)
+  - [Links](#links)
+  - [Images](#images)
+
+# Paragraphs
 
 <!-- Example of paragraph of text with line break -->
 There must be some kind of way out of here,  
@@ -67,5 +75,12 @@ This ~~not a text~~ that I want to show.
 <!-- Example of numbered list -->
 
 <!-- Example of table -->
+
+Column | Another column | Last column
+------ | -------------- | -----------
+Text   | Another text   | Some more text
+Next row text | Something | And sth else
+
+Table has ended but I need to add an empty line because it's Markdown
 
 <!-- Paragraph after table -->
