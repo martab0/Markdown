@@ -19,8 +19,9 @@ This is also __bold__ text.
 
 <!-- Example of italic  -->
 This is *italic* text.  
-This is also _bold_ text.
+This is also _italic_ text.
 
+<!-- Example of strikethough  -->
 This ~~not a text~~ that I want to show.
 
 <!-- Example of headers -->
