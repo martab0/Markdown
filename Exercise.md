@@ -26,13 +26,33 @@ This ~~not a text~~ that I want to show.
 
 <!-- Example of headers -->
 
+# Links and images
+
+## Links
+
 <!-- Example of external link -->
+
+[Webpage on localization](https://localization.pl/)
 
 <!-- Example of link to another file -->
 
-<!-- Example of an image -->
+[Additional information](Reference.md)
+
+[Even more information](New_File.md)
+
+## Images
+
+<!-- Example of an image from local file -->
+
+![SVG image from Internet](./images/image_with_text_eng.svg)
+
+<!-- Example of an image from remote file -->
+
+![Picsum](https://picsum.photos/200/300?grayscale)
 
 <!-- Example of an image with hover text -->
+
+![SVG image from Internet](./images/image_with_text_eng.svg "Famous quote")
 
 <!-- Example of equation or inline code -->
 
