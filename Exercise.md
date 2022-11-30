@@ -8,9 +8,22 @@ Table of Content
 - [Paragraphs](#paragraphs)
   - [Various line breaks](#various-line-breaks)
   - [Long paragraph](#long-paragraph)
+- [Text highlighting](#text-highlighting)
+  - [Bold](#bold)
+  - [Italic](#italic)
+  - [Strikethrough](#strikethrough)
 - [Links and images](#links-and-images)
   - [Links](#links)
   - [Images](#images)
+- [Code](#code)
+  - [Inline](#inline)
+  - [Block](#block)
+  - [Highlighting](#highlighting)
+- [Quote](#quote)
+- [Lists](#lists)
+  - [Bullet list](#bullet-list)
+  - [Numbered list](#numbered-list)
+- [Table](#table)
 
 # Paragraphs
 
@@ -27,13 +40,21 @@ There's so much confusion, I just can't get no relief.
 <!-- Example of another paragraph -->
 Another paragraph here with really long text. Until I break line in some way, Markdown takes this as one paragraph no matter what.
 
+# Text highlighting
+
+## Bold
+
 <!-- Example of bold -->
 This is **bold** text.  
 This is also __bold__ text.
 
+## Italic
+
 <!-- Example of italic  -->
 This is *italic* text.  
 This is also _italic_ text.
+
+## Strikethrough
 
 <!-- Example of strikethough  -->
 This ~~not a text~~ that I want to show.
@@ -52,41 +73,76 @@ This ~~not a text~~ that I want to show.
 
 [Additional information](Reference.md)
 
-[Even more information](New_File.md)
-
 ## Images
 
 <!-- Example of an image from local file -->
 
-![SVG image from Internet](./images/image_with_text_eng.svg)
+![SVG image](./images/image_with_text_eng.svg)
 
 <!-- Example of an image from remote file -->
 
-![Picsum](https://picsum.photos/200/300?grayscale)
+![Picsum image from Internet](https://picsum.photos/200/300?grayscale)
 
 <!-- Example of an image with hover text -->
 
-![SVG image from Internet](./images/inglisz.jpg "This flag does not exist")
+![PNG image](./images/inglisz.jpg "This flag does not exist")
+
+# Code
+
+## Inline
 
 <!-- Example of equation or inline code -->
 
+Let's check markup for `a+b=c` (equations) or `pip install` (code phrases).
+
+## Block
+
 <!-- Example of a block of code -->
+This will be sample code from engineer:
+```
+printf ("Hello World");
+printf ("Damn, like there's no other opening phrase?!");
+```
+## Highlighting
 
 <!-- Example of code highlighting -->
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+# Quote
 
 <!-- Example of quote -->
+A wise man once said:
+> Do not listen to what others day.
+
+# Lists
+
+## Bullet list
 
 <!-- Example of bullet list -->
+Unordered list:
+* Item
+* Another item
+* Something else
+
+## Numbered list
 
 <!-- Example of numbered list -->
+Ordered list:
+1. First action
+2. Second action
+
+# Table
 
 <!-- Example of table -->
 
-Column | Another column | Last column
------- | -------------- | -----------
-Text   | Another text   | Some more text
-Next row text | Something | And sth else
+| Column        | Another column | Last column    |
+| ------------- | -------------- | -------------- |
+| Text          | Another text   | Some more text |
+| Next row text | Something      | And sth else   |
 
-Table has ended but I need to add an empty line because it's Markdown
+Table has ended but I need to add an empty line because it's Markdown!
 
-<!-- Paragraph after table -->
+<!-- Above: a paragraph after a table -->
