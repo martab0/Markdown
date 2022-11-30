@@ -1,6 +1,5 @@
 <!-- Example of title -->
-My exercise in Markdown<!-- omit in toc -->
-=======================
+# My exercise in Markdown<!-- omit in toc -->
 
 <!-- Here comes the table of content -->
 Table of Content
