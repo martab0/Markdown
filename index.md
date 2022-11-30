@@ -1,3 +1,3 @@
 This is my Markdown page!
 
-[What lies beneath](Exercise.md)
+[What lies beneath](Markdown.md)
