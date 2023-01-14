@@ -34,6 +34,8 @@ said a joker to the thief.
 
 There's so much confusion, I just can't get no relief.
 
+*The above text is a quote of Bob Dylan lyrics.*
+
 ## Long paragraph
 
 <!-- Example of another paragraph -->
@@ -77,6 +79,8 @@ This ~~not a text~~ that I want to show.
 <!-- Example of an image from local file -->
 
 ![SVG image](./images/image_with_text_eng.svg)
+
+<!-- Google source of this quote!!! -->
 
 <!-- Example of an image from remote file -->
 
