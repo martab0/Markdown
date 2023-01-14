@@ -86,6 +86,8 @@ This ~~not a text~~ that I want to show.
 
 ![PNG image](./images/inglisz.jpg "This flag does not exist")
 
+This is a non-existing flag, a combination of the US, UK, UE, and Canada flags.
+
 # Code
 
 ## Inline
