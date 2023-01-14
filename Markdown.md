@@ -15,8 +15,8 @@ Table of Content
   - [Links](#links)
   - [Images](#images)
 - [Code](#code)
-  - [Inline](#inline)
-  - [Block](#block)
+  - [Inline code](#inline-code)
+  - [Block of code](#block-of-code)
   - [Highlighting](#highlighting)
 - [Quote](#quote)
 - [Lists](#lists)
@@ -94,13 +94,13 @@ This is a non-existing flag, a combination of the US, UK, UE, and Canada flags.
 
 # Code
 
-## Inline
+## Inline code
 
 <!-- Example of equation or inline code -->
 
 Let's check markup for `a+b=c` (equations) or `pip install` (code phrases).
 
-## Block
+## Block of code
 
 <!-- Example of a block of code -->
 This will be sample code from engineer:
