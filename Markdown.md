@@ -15,8 +15,8 @@ Table of Content
   - [Links](#links)
   - [Images](#images)
 - [Code](#code)
-  - [Inline](#inline)
-  - [Block](#block)
+  - [Inline code](#inline-code)
+  - [Block of code](#block-of-code)
   - [Highlighting](#highlighting)
 - [Quote](#quote)
 - [Lists](#lists)
@@ -33,6 +33,8 @@ There must be some kind of way out of here,
 said a joker to the thief. 
 
 There's so much confusion, I just can't get no relief.
+
+*The above text is a quote from the lyrics "All Along the Watchtower" by [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan), an American singer-songwriter awarded with Nobel prize in literature.*
 
 ## Long paragraph
 
@@ -78,6 +80,8 @@ This ~~not a text~~ that I want to show.
 
 ![SVG image](./images/image_with_text_eng.svg)
 
+*The text on this image is a quote from [Sir Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill), the Prime Minister of the UK during World War II.*
+
 <!-- Example of an image from remote file -->
 
 ![Picsum image from Internet](https://picsum.photos/200/300?grayscale)
@@ -86,15 +90,17 @@ This ~~not a text~~ that I want to show.
 
 ![PNG image](./images/inglisz.jpg "This flag does not exist")
 
+This is a non-existing flag, a combination of the US, UK, UE, and Canada flags.
+
 # Code
 
-## Inline
+## Inline code
 
 <!-- Example of equation or inline code -->
 
 Let's check markup for `a+b=c` (equations) or `pip install` (code phrases).
 
-## Block
+## Block of code
 
 <!-- Example of a block of code -->
 This will be sample code from engineer:
