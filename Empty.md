@@ -18,13 +18,17 @@
 
 <!-- Example of an image -->
 
+<!-- Example of a remote image -->
+
 <!-- Example of an image with hover text -->
 
-<!-- Example of equation or inline code -->
+<!-- Example of inline code -->
 
 <!-- Example of a block of code -->
 
 <!-- Example of code highlighting -->
+
+<!-- Example of equation -->
 
 <!-- Example of quote -->
 
