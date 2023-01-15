@@ -34,7 +34,7 @@ said a joker to the thief.
 
 There's so much confusion, I just can't get no relief.
 
-*The above text is a quote of Bob Dylan lyrics.*
+*The above text is a quote from the lyrics "All Along the Watchtower" by [Bob Dylan](https://en.wikipedia.org/wiki/Bob_Dylan), an American singer-songwriter awarded with Nobel prize in literature.*
 
 ## Long paragraph
 
@@ -80,7 +80,7 @@ This ~~not a text~~ that I want to show.
 
 ![SVG image](./images/image_with_text_eng.svg)
 
-<!-- Google source of this quote!!! -->
+*The text on this image is a quote from [Sir Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill), the Prime Minister of the UK during World War II.*
 
 <!-- Example of an image from remote file -->
 
