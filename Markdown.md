@@ -120,7 +120,7 @@ print s
 
 <!-- Example of quote -->
 A wise man once said:
-> Do not listen to what others day.
+> Do not listen to what others say.
 
 # Lists
 
