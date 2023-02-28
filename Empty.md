@@ -1,5 +1,7 @@
 <!-- Example of title -->
 
+# Title
+
 <!-- Here comes the table of content -->
 
 <!-- Example of paragraph of text with line break -->
